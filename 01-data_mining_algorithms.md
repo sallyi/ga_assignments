@@ -12,8 +12,4 @@ Under "algorithms," pick one link and read through the text. in a markdown file,
 4. Come up with up to three applications of this algorithm in business. Try relating it to your own job or line of work, your other data interests, or what have you.
   1. For information retrieval systems - based off of a number of features/attributes of documents, will a given document be relevant to what the user is looking for?
   2. Recommendation systems - based off of customer data (previous purchases, demographic info), will a given customer want to buy something?
-  3. Analyzing/estimating possible outcomes of a possible business decision
-
-Do make sure that the link you clicked through is about the algorithm! Some of Oracle's links are broken or incorrect.
-
-Submit this markdown to Github or as a gist, and send us the link on the assignments form.
+  3. Calculating the probability of a drug that is being tested having side effects in particular sets of people.
