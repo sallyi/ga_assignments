@@ -90,4 +90,5 @@ SVM uses grid search to tune the hyperplane (finding the optimal split between t
     Below the slope - Naive Bayes, want to use it for text stuff
 
     3. What's one question you still have about machine learning?
+    I have a lot of questions about the measurements used to evaluate machine learning but not sure where to begin.
 
